@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "111",
+  "homepage": "https://github.com/Oldrik1/back-end#readme",
+  "bugs": {
+    "url": "https://github.com/Oldrik1/back-end/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oldrik1/back-end.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "1",
+  "scripts": {
+    "test": "package.json"
+  }
+}
